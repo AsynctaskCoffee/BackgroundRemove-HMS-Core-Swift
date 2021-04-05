@@ -1,0 +1,6 @@
+framework module MLImageSegmentationLibrary {
+  umbrella header "MLImageSegmentationLibrary.h"
+
+  export *
+  module * { export * }
+}

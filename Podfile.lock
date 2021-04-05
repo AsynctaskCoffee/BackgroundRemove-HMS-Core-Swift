@@ -1,0 +1,24 @@
+PODS:
+  - AGConnectCore (1.3.0.300):
+    - HMFoundation (~> 1.3.0)
+  - HMFoundation (1.3.0.300)
+  - MLImageSegmentationLibrary (2.0.4.300)
+
+DEPENDENCIES:
+  - AGConnectCore
+  - MLImageSegmentationLibrary (~> 2.0.4.300)
+
+SPEC REPOS:
+  trunk:
+    - AGConnectCore
+    - HMFoundation
+    - MLImageSegmentationLibrary
+
+SPEC CHECKSUMS:
+  AGConnectCore: ac423191ee4137beca031f4d95f5fddd269a1c18
+  HMFoundation: 16628e6942dd9bc4fe8e02da9b898a519643183c
+  MLImageSegmentationLibrary: 2ad2730b4e33866796c2f0609999f4438b2249bb
+
+PODFILE CHECKSUM: d0f794d85a2db07074030802cb7f07b1d23ab0ae
+
+COCOAPODS: 1.10.1
