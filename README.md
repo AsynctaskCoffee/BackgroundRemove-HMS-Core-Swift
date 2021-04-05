@@ -1,6 +1,4 @@
-# BackgroundRemove-HMS-Core-Swift
-
-# BackgroundRemove-HMS-Core-Swift
+# BackgroundRemove-HMS-Core-Swift :trollface:
 
 
 ```swift
